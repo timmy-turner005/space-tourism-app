@@ -1,4 +1,4 @@
-function HomePage() {
+export default function HomePage() {
   return (
     <div>
       <h1>Welcome to Space Tourism</h1>
@@ -6,5 +6,3 @@ function HomePage() {
     </div>
   );
 }
-
-export default HomePage;
