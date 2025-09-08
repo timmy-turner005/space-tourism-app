@@ -1,6 +1,44 @@
-.link {
+/* .link {
     text-decoration: none;
     color: inherit;
     justify-items: space-between;
     text-align: right;
+} */
+
+.navbar {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    justify-content: flex-end;
+
+}
+
+
+/* .navbar .logo {
+    font-size: 1.5rem;
+} */
+
+
+.navitems {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+
+.navlink {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: none;
+    /* color: #ffffff; */
+}
+
+
+.span {
+    font-weight: bold;
+    margin-right: 0.5rem;
 }
