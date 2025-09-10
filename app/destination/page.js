@@ -3,14 +3,14 @@ import { Fragment } from "react";
 function Destination() {
   return (
     <Fragment>
-      <p>PICK YOUR DESTINATION</p>
+      <p>pick your destination</p>
       <div>
-        <span>MOON</span>
-        <span>MARS</span>
-        <span>EUROPA</span>
-        <span>TITAN</span>
+        <span>moon</span>
+        <span>mars</span>
+        <span>europa</span>
+        <span>titan</span>
       </div>
-      <h1>MARS</h1>
+      <h1>mars</h1>
       <p>
         Dont forget to pack your hiking boots. You will need them to tackle
         Olympus Mons, the tallest planetary mountain in our solar system. it is
@@ -18,10 +18,10 @@ function Destination() {
       </p>
       <section>
         <div>
-          AVG. DISTANCE <span>225 MIL. KM</span>
+          avg. distance <span>225 mil. km</span>
         </div>
         <div>
-          EST. TRAVEL TIME <span>9 MONTHS</span>
+          est. travel time <span>9 months</span>
         </div>
       </section>
     </Fragment>
