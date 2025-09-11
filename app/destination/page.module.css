@@ -1,0 +1,15 @@
+.body {
+    /* background-image: url("background-destination.jpg"); */
+    /* background-color: red; */
+}
+
+.number {
+    opacity: 50%;
+    margin-right: 10px;
+}
+
+.heading {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 90px;
+}
