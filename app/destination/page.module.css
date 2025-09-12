@@ -13,3 +13,10 @@
     letter-spacing: 2px;
     margin-left: 90px;
 }
+
+.links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    /* margin-bottom: 2rem; */
+}

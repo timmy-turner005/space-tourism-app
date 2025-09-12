@@ -20,12 +20,12 @@ function Destination() {
             priority
           />
         </section>
-        <div>
-          <span>moon</span>
-          <span>mars</span>
-          <span>europa</span>
-          <span>titan</span>
-        </div>
+        <ul classes={classes.links}>
+          <li>moon</li>
+          <li>mars</li>
+          <li>europa</li>
+          <li>titan</li>
+        </ul>
         <h1>mars</h1>
         <p>
           Dont forget to pack your hiking boots. You will need them to tackle
