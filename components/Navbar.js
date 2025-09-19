@@ -28,4 +28,21 @@ function NavBar() {
   );
 }
 
+{
+  /* <div className={classes.navitems}>
+  <Link href="/" className={classes.navlink}>
+  <p>00</p><span>home</span>
+  </Link>
+  <Link href="/destination" className={classes.navlink}>
+  <p>01</p><span>destination</span>
+  </Link>
+  <Link href="/crew" className={classes.navlink}>
+  <p>02</p><span>crew</span>
+  </Link>
+  <Link href="/technology" className={classes.navlink}>
+  <p>03</p><span>technology</span>
+  </Link>
+</div>; */
+}
+
 export default NavBar;
