@@ -2,12 +2,78 @@
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
+    background-image: url("/home-background-img.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid red;
+    padding-top: 3rem;
+
+}
+
+.logo {
+    margin-left: 3rem;
+
+}
+
+.links {
+    margin-right: 3rem;
+    border: 1px solid green;
+    text-transform: uppercase;
+
+}
+
+.navlink {
+    text-decoration: none;
+    color: inherit;
+    padding: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .background {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
     background-image: url("/background-home-desktop.jpg");
 
 }
 
 .container {
-    /* min-height: 100vh; */
+    min-height: 100vh;
     height: 100vh;
     padding: 0 2rem;
     background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPjxkZWZzPjxwYXR0ZXJuIGlkPSJwYXR0ZXJuIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgcGF0dGVyblRyYW5zZm9ybT0icm90YXRlKDEzNSkiPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjEuNSIgZmlsbD0iI0U0RTRFNCIvPjwvcGF0dGVybj48L2RlZnM+PHJlY3QgZmlsbD0iIzEyMTIyNSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIvPjxyZWN0IGZpbGw9InVybCgjcGF0dGVybikiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIC8+PC9zdmc+');
@@ -16,12 +82,12 @@
     justify-content: center;
     align-items: center;
     color: #E4E4E4;
-    font-family: 'Barlow', sans-serif;
-    /* margin: 0;
+    font-family: 'Barlow', sans-serif; */
+/* margin: 0;
     padding: 0; */
-    /* box-sizing: border-box; */
-}
-
+/* box-sizing: border-box; */
+/* } */
+/* 
 .main {
     max-width: 1200px;
     display: flex;
@@ -82,7 +148,7 @@
     font-family: 'Bellefair', serif;
     letter-spacing: 2px;
 
-}
+} */
 
 
 
@@ -122,7 +188,7 @@
 .explore-button:hover:after {
     box-shadow: 0 0 0 60px rgba(255, 255, 255, 0.05);
 } */
-
+/* 
 @media (max-width: 768px) {
     .main {
         flex-direction: column;
@@ -177,4 +243,4 @@
         height: 120px;
         font-size: 1rem;
     }
-}
+} */
