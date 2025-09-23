@@ -39,6 +39,38 @@
 
 }
 
+.content {
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid yellow;
+}
+
+.text-content {
+    margin-left: 3rem;
+    max-width: 27em;
+    border: 1px solid yellow;
+    font-size: 20px;
+}
+
+.explore-container {
+    margin-right: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    font-size: larger;
+    margin-bottom: 3rem;
+    position: relative;
+    text-transform: uppercase;
+    font-family: 'Bellefair', serif;
+    letter-spacing: 2px;
+
+}
 
 
 

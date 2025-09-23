@@ -55,8 +55,8 @@ function HomePage() {
           </div>
         </section>
 
-        <section>
-          <div>
+        <section className={classes.content}>
+          <div className={classes["text-content"]}>
             <p>so you want to travel to sapce</p>
             <h1>space</h1>
             <p>
@@ -66,7 +66,7 @@ function HomePage() {
               out of this world experience!
             </p>
           </div>
-          <div>
+          <div className={classes["explore-container"]}>
             <p>explore</p>
           </div>
         </section>
