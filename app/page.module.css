@@ -15,7 +15,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding-top: 3rem;
 
 }
@@ -27,7 +27,7 @@
 
 .links {
     margin-right: 13rem;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     text-transform: uppercase;
     padding: 20px;
     font-size: 12px;
@@ -51,7 +51,7 @@
     display: flex;
     justify-content: space-between;
     height: 37em;
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
     align-items: flex-end;
 
 }
@@ -59,7 +59,7 @@
 .text-content {
     margin-left: 10em;
     max-width: 21em;
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
     font-size: 20px;
     line-height: 1.2;
 }
@@ -69,7 +69,7 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: -100;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     padding-top: 20px;
 }
 
@@ -80,7 +80,7 @@
     text-transform: uppercase;
     margin: 0 1rem 1rem 0;
     color: #FFFFFF;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
     padding-right: 10px;
     /* -webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
     animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both; */
