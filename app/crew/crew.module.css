@@ -15,21 +15,3 @@
     justify-content: center;
     border: 2px solid red;
 }
-
-.container2 {
-    justify-content: center;
-    border: 2px solid green;
-}
-
-.head {
-    color: green;
-    letter-spacing: 3px;
-    /* position: relative; */
-    /* top: 20%;
-    left: 50%; */
-}
-
-.second {
-    color: red;
-    letter-spacing: 3px;
-}
