@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import classes from "./crew.module.css";
+import classes from "./page.module.css";
 import Image from "next/image";
 import Link from "next/link";
 
