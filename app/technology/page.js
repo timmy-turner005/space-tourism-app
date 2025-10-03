@@ -31,6 +31,39 @@ function Technology() {
           </Link>
         </div>
       </section>
+      <div>
+        <p>03</p>
+        <p>space launch 101</p>
+      </div>
+      <section>
+        <div>
+          <div>
+            <p>1</p>
+            <p>2</p>
+            <p>3</p>
+          </div>
+          <div>
+            <p>the technology</p>
+            <h1>launch vehicle</h1>
+            <p>
+              A launch vehicle or carrier rocket is a rocket-propelled vehicle
+              used to carry a payload from Earth surface to space, usually to
+              Earth orbit or beyond. Our WEB-X carrier rocket is the most
+              powerful in operation. standing 150 metres tall, its quite an
+              awe-inspiring sight on the launch pad!
+            </p>
+          </div>
+        </div>
+        <div>
+          <Image
+            src="/rocket.jpg"
+            alt="rocket"
+            width={50}
+            height={50}
+            priority
+          />
+        </div>
+      </section>
     </Fragment>
   );
 }
